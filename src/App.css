@@ -28,6 +28,42 @@
   color: #61dafb;
 }
 
+.dark-color {
+  background-color: #000;
+  border-radius: 50px;
+  height: 25px;
+  width: 15px;
+  margin: 2px;
+}
+
+.green-color {
+  background-color: green;
+  border-radius: 50px;
+  height: 25px;
+  width: 15px;
+  margin: 2px;
+}
+
+.blue-color {
+  background-color: blue;
+  border-radius: 50px;
+  height: 25px;
+  width: 15px;
+  margin: 2px;
+}
+
+.blue-color:hover {
+  background-color: blue;
+}
+
+.green-color:hover {
+  background-color: green;
+}
+
+.dark-color:hover {
+  background-color: #000;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
